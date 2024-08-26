@@ -23,11 +23,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
         micIcon.addEventListener('click', () => {
             if (!isRecording) {
-                micIcon.setAttribute("src", "stop.png");
+                micIcon.setAttribute("src", "Icons\stop.png");
                 recognition.start();
                 isRecording = true;
             } else {
-                micIcon.setAttribute("src", "microphone-black-shape.png");
+                micIcon.setAttribute("src", "Icons\microphone-black.png");
                 recognition.stop();
                 isRecording = false;
             }
