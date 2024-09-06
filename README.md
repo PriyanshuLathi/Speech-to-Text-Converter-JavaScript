@@ -3,11 +3,15 @@
 ## Description
 This web application allows users to convert spoken words into text using the Web Speech API. It features a text area where the transcribed text is displayed, a microphone icon to start and stop recording, and a clipboard icon to copy the transcribed text to the clipboard.
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/c1a3771d-1e70-47c8-8dd6-b6cb382edf80" alt="Speech-to-Text" width = 750 /> </p>
+
 ## Features
 - **Real-Time Speech-to-Text Conversion:** Utilizes the Web Speech API to transcribe speech in real-time.
 - **Start/Stop Recording:** Toggle recording by clicking the microphone icon.
 - **Copy to Clipboard:** Easily copy the transcribed text using the clipboard icon.
 - **Responsive Design:** Ensures a seamless experience across various devices and screen sizes.
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/2f852c2c-7856-4df4-b07e-52ab24350936" alt="Speech-to-Text" width = 750 /> </p>
 
 ## Installation
 1. **Clone the Repository:**
